@@ -12,7 +12,7 @@
 #define NET_SSID "SSID"
 #define NET_PW "password"
 
-#define MQTT_DOMAIN "192.168.1.138"
+#define MQTT_DOMAIN "192.168.1.38"
 #define MQTT_PORT 1883
 
 #define TOPIC "house/room/office"
